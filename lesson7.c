@@ -8,4 +8,5 @@ int main(int argc, const char *argv[])
 		printf("hello world!\n");
 	}
 	return 0;
-}  //宏定义用法
+}  //宏定义用法 
+//git commit -a 里面的vim文件不能写汉字
